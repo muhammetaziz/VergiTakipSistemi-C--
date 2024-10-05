@@ -1,0 +1,4 @@
+﻿  MuhammetAzizAciker.cpp
+C:\Users\kemal\source\repos\MuhammetAzizAciker\MuhammetAzizAciker.cpp(157,9): warning C4101: 'arr': yerel değişken başvurusu kaldırıldı
+C:\Users\kemal\source\repos\MuhammetAzizAciker\MuhammetAzizAciker.cpp(155,8): warning C4101: 'dizi': yerel değişken başvurusu kaldırıldı
+  MuhammetAzizAciker.vcxproj -> C:\Users\kemal\source\repos\MuhammetAzizAciker\Debug\MuhammetAzizAciker.exe

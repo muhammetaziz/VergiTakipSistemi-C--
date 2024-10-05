@@ -1,0 +1,12 @@
+1005 ID'li Ataberk vb 200000 mik 100000 TPT 435300 Durum 3'den supheli 
+1010 ID'li Dilara vb 180000 mik 50000 TPT 180000 Durum 2'den supheli 
+1013 ID'li Selim vb 143000 mik 90000 TPT 143700 Durum 3'den supheli 
+1015 ID'li Salih vb 227600 mik 70000 TPT 227600 Durum 2'den supheli 
+1020 ID'li Aykan vb 400000 mik 300000 TPT 357000 Durum 3'den supheli 
+1026 ID'li Cemre vb 300000 mik 200000 TPT 422800 Durum 3'den supheli 
+1031 ID'li A Firmasi vb 193000 mik 120000 TPT 193800 Durum 3'den supheli 
+1036 ID'li F Firmasi vb 300000 mik 300000 TPT 316600 Durum 3'den supheli 
+1042 ID'li L Firmasi vb 200000 mik 80000 TPT 240700 Durum 2'den supheli 
+1042 ID'li L Firmasi vb 200000 mik 80000 TPT 240700 Durum 3'den supheli 
+1047 ID'li R Firmasi vb 250000 mik 150000 TPT 135800 Durum 3'den supheli 
+1049 ID'li T Firmasi vb 616500 mik 200000 TPT 616500 Durum 2'den supheli 
